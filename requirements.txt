@@ -1,0 +1,15 @@
+# PLY to COLMAP Converter Requirements
+# Python 3.6+ is required
+
+# No external dependencies required - uses only Python standard library
+# The script uses built-in modules:
+# - os
+# - sys
+# - argparse
+# - pathlib
+# - collections (defaultdict)
+
+# For development/testing (optional):
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
