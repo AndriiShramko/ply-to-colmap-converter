@@ -47,7 +47,7 @@ setup(
     install_requires=read_requirements(),
     entry_points={
         "console_scripts": [
-            "ply-to-colmap=ply_to_colmap_converter:main",
+            "shramko-andrii-ply-to-colmap=Shramko_Andrii_ply_to_colmap_converter:main",
         ],
     },
     keywords="ply colmap point-cloud 3d-gaussian-splatting postshot cloudcompare",

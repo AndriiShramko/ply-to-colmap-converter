@@ -46,7 +46,7 @@ After thorough research, I found that according to [Agisoft Forum](https://www.a
 1. Place PLY file in folder `6/sparse/0/` and name it `points3D.ply`
 2. Run the converter:
    ```bash
-   python ply_to_colmap_converter.py
+   python Shramko_Andrii_ply_to_colmap_converter.py
    ```
 
 ### 3. Result
@@ -100,7 +100,7 @@ The script will create `6/sparse/0/points3D.txt` in proper COLMAP format:
 # Result: 18,544,912 unique points (947 MB)
 # Processing time: ~2-3 minutes
 
-python ply_to_colmap_converter.py
+python Shramko_Andrii_ply_to_colmap_converter.py
 ```
 
 ## Requirements
@@ -169,7 +169,7 @@ invalid COLMAP database format
 1. Поместите PLY файл в папку `6/sparse/0/` и назовите его `points3D.ply`
 2. Запустите конвертер:
    ```bash
-   python ply_to_colmap_converter.py
+   python Shramko_Andrii_ply_to_colmap_converter.py
    ```
 
 ### 3. Результат
@@ -223,7 +223,7 @@ invalid COLMAP database format
 # Результат: 18,544,912 уникальных точек (947 МБ)
 # Время обработки: ~2-3 минуты
 
-python ply_to_colmap_converter.py
+python Shramko_Andrii_ply_to_colmap_converter.py
 ```
 
 ## Требования

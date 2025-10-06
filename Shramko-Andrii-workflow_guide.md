@@ -59,7 +59,7 @@ Perform necessary operations:
 ### 2.2 Run Converter
 ```bash
 cd convert-PLY-dense-point-cloud-to-colmap-for-Postshot
-python ply_to_colmap_converter.py
+python Shramko_Andrii_ply_to_colmap_converter.py
 ```
 
 ### 2.3 Check Result
@@ -221,7 +221,7 @@ Result: **Significantly better quality** 3D Gaussian Splatting compared to using
 ### 2.2 Запуск конвертера
 ```bash
 cd convert-PLY-dense-point-cloud-to-colmap-for-Postshot
-python ply_to_colmap_converter.py
+python Shramko_Andrii_ply_to_colmap_converter.py
 ```
 
 ### 2.3 Проверка результата

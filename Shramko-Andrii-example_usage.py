@@ -4,7 +4,7 @@ Example usage of PLY to COLMAP converter
 Shows different ways to use the converter
 """
 
-from ply_to_colmap_converter import convert_ply_to_colmap
+from Shramko_Andrii_ply_to_colmap_converter import convert_ply_to_colmap
 
 def example_1_basic_usage():
     """Basic usage with default paths"""

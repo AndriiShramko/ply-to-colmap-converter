@@ -84,10 +84,10 @@ ply-to-colmap-converter/
 ├── README.md
 ├── requirements.txt
 ├── setup.py
-├── ply_to_colmap_converter.py
-├── example_usage.py
-├── workflow_guide.md
-└── PUBLISH_INSTRUCTIONS.md
+├── Shramko_Andrii_ply_to_colmap_converter.py
+├── Shramko-Andrii-example_usage.py
+├── Shramko-Andrii-workflow_guide.md
+└── Shramko-Andrii-PUBLISH_INSTRUCTIONS.md
 ```
 
 ## Next Steps After Publishing
