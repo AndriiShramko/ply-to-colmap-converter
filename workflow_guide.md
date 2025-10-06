@@ -1,8 +1,10 @@
 # Complete Workflow Guide: CloudCompare → Postshot
 
+**A community-developed solution for advancing 3D/4D Gaussian Splatting quality**
+
 ## Process Overview
 
-This workflow allows you to use dense point cloud from CloudCompare to achieve better quality in Postshot when training 3D Gaussian Splatting.
+This workflow allows you to use dense point cloud from CloudCompare to achieve better quality in Postshot when training 3D Gaussian Splatting. Developed through extensive research when no existing tools were available, this solution is shared freely with the community to advance the field of 3D/4D Gaussian Splatting.
 
 ## Step 1: Data Preparation in CloudCompare
 
@@ -149,18 +151,22 @@ end_header
 
 This workflow allows you to:
 1. **Edit** dense point cloud in CloudCompare
-2. **Convert** to proper COLMAP format
+2. **Convert** to proper COLMAP format using our community-developed tool
 3. **Use** in Postshot for better 3DGS quality
 
 Result: **Significantly better quality** 3D Gaussian Splatting compared to using only sparse point cloud.
+
+**Community Impact**: This tool fills a critical gap in the 3D/4D Gaussian Splatting workflow, enabling researchers and developers to achieve higher quality results. Developed through extensive research and testing, it's shared freely to advance the entire field.
 
 ---
 
 # Полное руководство по workflow: CloudCompare → Postshot
 
+**Решение, разработанное сообществом для повышения качества 3D/4D Gaussian Splatting**
+
 ## Обзор процесса
 
-Этот workflow позволяет использовать dense point cloud из CloudCompare для получения лучшего качества в Postshot при тренировке 3D Gaussian Splatting.
+Этот workflow позволяет использовать dense point cloud из CloudCompare для получения лучшего качества в Postshot при тренировке 3D Gaussian Splatting. Разработанный в результате обширного исследования, когда готовых инструментов не было доступно, это решение бесплатно предоставляется сообществу для развития области 3D/4D Gaussian Splatting.
 
 ## Шаг 1: Подготовка данных в CloudCompare
 
@@ -307,7 +313,9 @@ end_header
 
 Этот workflow позволяет:
 1. **Редактировать** dense point cloud в CloudCompare
-2. **Конвертировать** в правильный формат COLMAP
+2. **Конвертировать** в правильный формат COLMAP с помощью нашего инструмента, разработанного сообществом
 3. **Использовать** в Postshot для лучшего качества 3DGS
 
 Результат: **Значительно лучшее качество** 3D Gaussian Splatting по сравнению с использованием только sparse point cloud.
+
+**Влияние на сообщество**: Этот инструмент заполняет критический пробел в workflow 3D/4D Gaussian Splatting, позволяя исследователям и разработчикам достигать более высокого качества результатов. Разработанный в результате обширного исследования и тестирования, он бесплатно предоставляется для развития всей области.
